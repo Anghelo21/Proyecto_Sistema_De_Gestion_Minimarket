@@ -1,0 +1,12 @@
+Venta ID: 123
+Cliente: Samuel Gomez
+Papel x 3 = 24
+Jabon x 2 = 12
+TOTAL: 36
+------------------------
+Venta ID: 234
+Cliente: Maria Salcedo
+Papel x 2 = 16
+Jabon x 3 = 18
+TOTAL: 27.2
+------------------------
